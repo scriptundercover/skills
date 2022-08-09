@@ -1,5 +1,10 @@
 body{
   font-stretch: expanded;
+  width: 100%;
+  height: 100vh;
+  border:0px;
+  margin: 0px;
+  padding: 0px
 }
 body{
   background:black;
@@ -8,6 +13,10 @@ body{
 
 }
 table{
-  font-size:50px;
+  font-size:45px;
   text-align: center;
+}
+.container{
+  width: 60%;
+  margin: 0px auto;
 }
